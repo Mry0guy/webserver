@@ -1,0 +1,16 @@
+{
+  "name": "finalCloudfunctions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^1.2.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "graphql-mongodb-resolver": "^1.0.0-alpha.0",
+    "graphql-tools": "^2.11.0",
+    "mongodb": "^2.2.33"
+  }
+}
